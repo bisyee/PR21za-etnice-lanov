@@ -1,1 +1,1 @@
-Obdelovali bomo podatke o številu hospitalizacij zaradi bolezni, po spolu in statističnih regijah v Sloveniji letno. Ti podatki so v formatu PC-Axis(.px).
+Obdelovali bomo podatke o številu hospitalizacij zaradi bolezni, po spolu in statističnih regijah v Sloveniji letno. Ti podatki so v formatu PC-Axis(.px). Iz teh podatkov, se bomo skušali učiti katere osebe je pametno hospitalizirati najprej.
