@@ -11,9 +11,5 @@ than men (but this is most likely due to the fact that women outnumber men in Sl
 more common with men. Some of these can be explained, for instance, the number of respiratory problems (Bolezni dihal (J00-J99)) could be explained by the fact that there
 are more male spokers than female ones [Data found here](https://www.euro.who.int/__data/assets/pdf_file/0016/312046/Fact-Sheet-tobacco-control-Slovenia.pdf). 
 We made a comparison of the occupancy between the statistical regions and we can see that the region "Osrednjoslovenska" is the most occupied, after it come "Podravska" 
-and "Savinjska". The least occupied is the statistical region "Tujina" which says that most of the Slovenian people are treated in Slovenian hospitals. We plan on balancing
-the data based on the population size (so we can get a better picture of the data, since Osrednjoslovenska has most hospitalizations but also the most people). 
-
-## Plans for future findings
-We plan to improve our findings by normalizing data by taking into account the male/female population ratio in Slovenia, perhaps clustering the different types of diseases 
-(although not many are given) and try to find stronger correlations by using the datasets we already looked at, or new ones that would give us useful information.
+and "Savinjska". The least occupied is the statistical region "Tujina" which says that most of the Slovenian people are treated in Slovenian hospitals. After normalizing the data
+we found out that Pomurska, Zasavska and Koroska had the highest number of hospitalizations for their population size. 
