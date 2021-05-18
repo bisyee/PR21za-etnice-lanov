@@ -15,3 +15,6 @@ we found out that Pomurska, Zasavska and Koroska had the highest number of hospi
 
 ## Deaths by most frequent causes of death
 Furthermore we analyzed the number of deaths in hospitals and the causes of deaths. We found out that the most prevalent diseases in Slovenia are the diseases of the urinary tract and genitals, gastrointestinal diseases, respiratory diseases, circulatory diseases and neoplasms. However we continued with analyses and realized that some of them are not in the most deadly diseases. We listed the most deadly diseases: respiratory diseases, gastrointestinal diseases, injuries or poisonings and some other consequences of external causes, neoplasms and as a most dangerous we listed circulatory diseases which is normal since most of the conuntries in the world are fighting with this cause of death. Moreover we analyzed the death rate based on the regions and after normalizing date based on the population we concluded that Primorsko-notranjska has highest death rate, Zasavska is on the second place and Koroska on the third place.
+
+## Time series forecasting
+We noticed that we use time series forecasting to try and find out how many deaths would occur in the year 2020. We used AR, SARIMA and HWES.
